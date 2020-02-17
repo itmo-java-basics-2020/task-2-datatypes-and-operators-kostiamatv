@@ -18,7 +18,7 @@ public class Task2 {
      * Дан символ, верните его код. Не используйте явное приведение типов и любые библиотечные функции
      */
     int charCode(char c) {
-        return (int) c; //your code here
+        return c; //your code here
     }
 
     /**
